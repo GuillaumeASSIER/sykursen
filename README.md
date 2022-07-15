@@ -7,9 +7,9 @@
 I'm Guillaume 🦎
 
 - Cybersecurity architect 🖌️ 
-- Hopledge labs founder 📚 
-- 50 nuances d'octets co-founder 🎙️
-- Crowdsec ambassador 🦙
-- Cyberdefense student at ENSIBS 🧭
+- [Hopledge labs](https://www.hopledge.fr/) founder 📚 
+- [50 nuances d'octets](https://50no.fr/) co-founder 🎙️
+- [Crowdsec](https://www.crowdsec.net/) ambassador 🦙
+- Cyberdefense student at [ENSIBS](https://www-ensibs.univ-ubs.fr/fr/index.html) 🧭
 
 Also present on [Gitlab](https://gitlab.com/Sykursen) 
