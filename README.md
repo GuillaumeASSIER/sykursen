@@ -10,7 +10,7 @@ I'm Guillaume ASSIER, ethical hacker and sometimes developer
 ---
 ## 👨‍🎓 Who am I ?
 
-- Cybersecurity architect 🖌️ 
+- Cybersecurity developer 🖌️
 - [Hopledge labs](https://www.hopledge.fr/) founder 📚 
 - [50 nuances d'octets](https://50no.fr/) co-founder 🎙️
 - [Crowdsec](https://www.crowdsec.net/) ambassador 🦙
