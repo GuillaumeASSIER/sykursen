@@ -8,12 +8,11 @@ I'm Guillaume ASSIER, ethical hacker and sometimes developer
 [![Twitter badge](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/guillaume-assier)
 
 ---
+
 ## 👨‍🎓 Who am I ?
 
-- Cybersecurity developer 🖌️
-- [Hopledge labs](https://www.hopledge.fr/) founder 📚 
+- Internship Security Engineer 🖌️
 - [50 nuances d'octets](https://50no.fr/) co-founder 🎙️
-- [Crowdsec](https://www.crowdsec.net/) ambassador 🦙
 - Cyberdefense student at [ENSIBS](https://www-ensibs.univ-ubs.fr/fr/index.html) 🧭
 
 ---
