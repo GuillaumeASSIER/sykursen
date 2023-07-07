@@ -2,7 +2,7 @@
 
 I'm Guillaume ASSIER, ethical hacker and sometimes developer
 
-*Wan't to reach me ?*
+*Want to reach me ?*
 
 [![Twitter badge](https://img.shields.io/twitter/follow/Sykursen?style=social)](https://twitter.com/Sykursen)
 [![Twitter badge](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/guillaume-assier)
